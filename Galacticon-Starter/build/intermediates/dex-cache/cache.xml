@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\joeng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_5139616bd01127f68cd398ca5de31dec3d07fd12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\joeng\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_7feb84950354c276a3589b8466c21bf206964900\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ec20bd328630811a0a0d0fcae95780fb3ab679ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_afe1033af87181835a265fe90cbd0f44a867f130\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.3.0_187ff75f7782449b64268e39f4974383e6408cd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="15bd240f05fc7b51f2efdce7926bd3108a9ac3a4">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_56a67ae6e6a93a7dd40b23e0406abcf574de7b5f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_3aadb1cd7af3a435f87a7b9f3c3b49f2a62ece21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\joeng\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_4a3225891a0ab8672498bdb092c9657cd7344381\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\joeng\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.0.1\b34c1f2d993044656e87f88970b6818e99e886ba\okhttp-3.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.0.1_3a29a84308dfc3ef615712a65a8826fbb2bba921\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_1c02434134719993eac40d057baef202b49577c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_95813b4202fab9f60d8167539444fc2d0dce28d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f311ff2a4889d73eafffc5cf6e91fdf010cc100d">
+        <dex dex="D:\Android_Example_By_Len\Galacticon-Starter\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bc4a5a7ba4a0fce86ba299d12cfc432c29aece11\classes.dex" />
+    </item>
+
+</items>
