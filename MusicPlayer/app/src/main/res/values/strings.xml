@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">MusicPlayer</string>
-    <string name="musictitle">제목</string>
-    <string name="Duration">재생시간</string>
-</resources>
