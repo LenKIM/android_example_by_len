@@ -9,10 +9,9 @@ import android.widget.TextView;
 
 /**
  * 안드로이드에서 메인스레드의 핸들러를 사용할수 없을 경우 그 핸들러를 받아와서
- *Messager를 생성하여 sendMessage()할수 있는 예제가 Ex03
+ * Messager를 생성하여 sendMessage()할수 있는 예제가 Ex03
  * 이번에는 Messager생성을 생성자를 통해서가 아니라 obtain()메소드를 통해서도 생성하여 전송 가능함.
- *
- * */
+ */
 public class MainActivity extends AppCompatActivity {
 
     int mainValue = 0;
@@ -45,18 +44,19 @@ public class MainActivity extends AppCompatActivity {
         public void handleMessage(Message msg) {
             if (msg.what == 0) {
                 //메세지를 통해 받은 값을 BackValue로 출력
-                backText.setText("BackValue : " +msg.arg1);
+                backText.setText("BackValue : " + msg.arg1);
             }
         }
     };
 }
+
 // 메인스레드의 핸들러를 직접 사용할 수 없는 분리된 작업 스레드
 class BackThread extends Thread {
 
     int backValue = 0;
     Handler handler;
 
-    BackThread(Handler handler){
+    BackThread(Handler handler) {
         this.handler = handler;
     } //end constructor
 
